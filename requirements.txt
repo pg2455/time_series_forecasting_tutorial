@@ -1,0 +1,21 @@
+pandas==1.5.3
+scikit-learn==1.5.0
+statsmodels==0.14.2
+fastdtw==0.3.4
+scipy==1.13.1
+xgboost==2.1.1
+
+
+torch==2.4.1
+lightning==2.1.4
+pytorch-lightning==2.1.4
+transformers==4.44.2
+
+gluonts==0.15.1
+neuralforecast==1.7.4
+chronos @ git+https://github.com/amazon-science/chronos-forecasting.git@eb7bdfc047de3e7af972b4ee7cf23a7968b7daa3
+
+matplotlib==3.8.4
+termcolor==2.4.0
+tqdm==4.66.2
+ipywidgets

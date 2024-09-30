@@ -22,9 +22,8 @@ Multiple methods have been developed, addressing tasks such as:
 
 --- 
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px; margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold"> What is this series about? </p>
-</div>
+## What is this series about?
+
 
 
 This tutorial series aims to bring together **software libraries and modeling techniques for time series forecasting**. We will use Python libraries to build an understanding of time series forecasting problems, the challenges involved, and various forecasting techniques through hands-on python notebooks.
@@ -36,9 +35,9 @@ This tutorial is designed to introduce you to both the research literature and t
 Each module is focused on exposing you to a specific class of techniques, such as transformer-based architectures or LLM-based approaches. However, it is not feasible to exhaustively cover all methods within these categories. The goal is not exhaustive coverage but rather to provide you with the foundational understanding needed to explore the space on your own.
  
  --- 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">Who is this series for?</p>
-</div>
+
+## Who is this series for?
+
 
 This tutorial is tailored for a specific audience with one or more of the following characteristics:
 
@@ -58,9 +57,8 @@ This tutorial is tailored for a specific audience with one or more of the follow
 
 --- 
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">What to expect in this series?</p>
-</div>
+## What to expect in this series?
+
 
 This series consists of 7 modules that gradually build a holistic understanding of forecasting, as well as the ability to build models oneself. Each module is taught through notebooks that include both discussions and executable code, allowing for hands-on learning. The modules and concepts covered are best described in the table below.
 
@@ -70,9 +68,7 @@ This series consists of 7 modules that gradually build a holistic understanding 
 
 ---
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">How are the models for the tutorial selected?</p>
-</div>
+## How are the models for the tutorial selected?
 
 The models explored in these notebooks are not necessarily the best ones for the dataset at hand. They are chosen for their simplicity, making it easier to introduce the broader family of respective models, libraries, and basic concepts to the audience. The purpose of the exercise is to familiarize ourselves with the tools, techniques, and concepts used in time series forecasting. Each notebook contains exercises to extend the modeling techniques in various directions if you want to push the limits of the models.
 
@@ -94,17 +90,14 @@ The models explored in these notebooks are not necessarily the best ones for the
 
 --- 
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">How are the libraries for the tutorial selected?</p>
-</div>
+## How are the libraries for the tutorial selected?
 
 The main criterion for choosing the libraries in this tutorial is their suitability for time series forecasting and the availability of larger community support. However, this is not always possible. As of September 2024, `GluonTS`, `neuralforecast`, and `Chronos` are still undergoing significant development, and their interfaces might change or stop being supported by the developers altogether. Therefore, it is important to ensure that particular versions of these libraries are installed.
 
 --- 
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">What is the dataset used for learning in these tutorials?</p>
-</div>
+## What is the dataset used for learning in these tutorials?
+
 
 Throughout these tutorials, we will stick to a single multivariate dataset containing weekly exchange rate data for 8 countries. 
 
@@ -114,9 +107,8 @@ Throughout these tutorials, we will stick to a single multivariate dataset conta
 
 ---
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">How to navigate the modules?</p>
-</div>
+## How to navigate the modules?
+
 Modules 1 and 2 cover the basics of time series forecasting. Specifically, Module 1/Notebook 1.4 introduces GluonTS, which will be used later in Module 6.
 
 If you'd prefer to skip the exploratory data analysis (EDA) aspects of time series, you can start from Module 3/Notebook 3.1, which focuses on data and problem formulation. This foundation will be used for building models in the subsequent modules.
@@ -125,9 +117,7 @@ Once you have completed Module 3/Notebook 3.1, feel free to jump to any other mo
 
 ---
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">How much time will it take to cover these notebooks?</p>
-</div>
+## How much time will it take to cover these notebooks?
 
 This depends on your background and the notebooks that you would like to cover. Here is an approximate time that you might take in each notebook, although you can take less or more depending on how you are intereacting with the notebooks.
 
@@ -137,9 +127,7 @@ This depends on your background and the notebooks that you would like to cover. 
 
 ---
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">How to navigate the notebooks?</p>
-</div>
+## How to navigate the notebooks?
 
 Each notebook focuses on a unique aspect of time series forecasting. However, some notebooks can be quite long, and without easy navigation, it can be challenging to keep track of the content. JupyterLab and VSCode both offer an "Outline" view, which allows you to see the structure of the notebook and easily navigate between sections.
 
@@ -154,17 +142,13 @@ From **Module 3/Notebook 3.2** onwards, each notebook is dedicated to a model-bu
 
 ---
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">How to setup the environment?</p>
-</div>
+## How to setup the environment?
 
 Please refer to instructions in `installation.md`
 
 ---
 
-<div style="background-color: #EEF7FF; padding: 10px; width: 100%;font-family: 'Capri'; font-size: 20px; margin-top:20px;margin-bottom:2px">
-    <p style="margin: 0; font-weight:bold">How can I improve this tutorial?</p>
-</div>
+## How can I improve this tutorial?
 
 - If you notice any errors that you'd like me to correct, please feel free to email me at [contact@pgupta.info](mailto:contact@pgupta.info).
 

@@ -1,8 +1,8 @@
 # Time Series Forecasting: Classical to Advanced Modeling Techniques & Tools
 
 <div style="padding: 10px; width: 100%; background-color:#FEF3E2; display:inline-block; font-family: 'Capri'; font-size: 18px;">
-<!-- <b>Author:</b> <a href="www.pgupta.info" target="blank">Prateek Gupta</a> -->
-<b>Author:</b> <a href="www.pgupta.info" target="blank">Prateek Gupta (www.pgupta.info)</a>
+<!-- <b>Author:</b> <a href="https://www.pgupta.info" target="blank">Prateek Gupta</a> -->
+<b>Author:</b> <a href="https://www.pgupta.info" target="blank">Prateek Gupta (www.pgupta.info)</a>
 <b>Created:</b> September, 2024
 </div>
 

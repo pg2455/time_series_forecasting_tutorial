@@ -152,6 +152,12 @@ Please refer to instructions in `installation.md`
 
 - If you notice any errors that you'd like me to correct, please feel free to email me at [contact@pgupta.info](mailto:contact@pgupta.info).
 
+- If you'd like to support my work, you can:
+<a href="https://www.buymeacoffee.com/pratgpt" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;">
+</a>
+
+
 
 - Once you have gone through the tutorial, I’d love your feedback! Your input will help me improve the tutorials and create a better learning experience for everyone. The survey is short and should only take 2-5 minutes to complete, covering topics like your overall experience, content clarity, and areas for improvement. 
 
@@ -160,5 +166,7 @@ Please refer to instructions in `installation.md`
     You can also fill it here using the form below: 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0VhoX_Y9OeNdqZZ88kvHsleH829n_QYlCphuiMr87GiaJUQ/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
 ---
